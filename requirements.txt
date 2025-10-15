@@ -1,0 +1,6 @@
+transformers
+torch
+huggingface_hub
+sentencepiece
+accelerate
+numpy
