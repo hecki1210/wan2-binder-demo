@@ -10,6 +10,6 @@ The goal here is to show *how* you would configure Binder for a large Hugging Fa
 ## 🚀 Launch on Binder
 Click this badge to try:
 
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YOUR_GITHUB_USERNAME/wan2-binder-demo/HEAD?labpath=notebook.ipynb)
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hecki1210/wan2-binder-demo/HEAD?labpath=notebook.ipynb)
 
 ---
